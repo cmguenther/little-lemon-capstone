@@ -1,0 +1,14 @@
+header nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+header nav ul li {
+  display: inline-flex;
+  padding-right: 2rem;
+  align-items: right;
+}
+
+footer nav ul {
+  list-style: none;
+}
